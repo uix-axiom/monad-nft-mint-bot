@@ -1,0 +1,4 @@
+[
+  "function mint(uint256 quantity) public payable",
+  "function publicMintStart() public view returns (uint256)"
+]
